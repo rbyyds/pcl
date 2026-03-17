@@ -90,6 +90,10 @@ Contributing
 ------------
 Please read [CONTRIBUTING.md](https://github.com/PointCloudLibrary/pcl/blob/master/CONTRIBUTING.md).
 
+Support / 客服支持
+-----------------
+For help and support options, please see [SUPPORT.md](SUPPORT.md).
+
 Issues
 ------
 To report issues, please read [CONTRIBUTING.md#bug-reports](https://github.com/PointCloudLibrary/pcl/blob/master/CONTRIBUTING.md#bug-reports).
