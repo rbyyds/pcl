@@ -157,6 +157,19 @@ Basic Usage
      .. |mi_13| image:: images/pcl_logo.png
                :height: 100px
 
+  * :ref:`compiling_pcl_wsl`
+
+     =======  ======
+     |mi_14|  Title: **Installing Ubuntu on Windows using WSL and Compiling PCL**
+
+              Compatibility: > PCL 1.0
+
+              This tutorial explains how to install Ubuntu on Windows via WSL (Windows Subsystem for Linux) and then compile and install PCL inside that environment.
+     =======  ======
+
+     .. |mi_14| image:: images/windows_logo.png
+               :height: 100px
+
   * :ref:`installing_homebrew`
 
      ======  ======
